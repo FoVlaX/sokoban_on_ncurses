@@ -1,1 +1,0 @@
-gcc sokoban.cpp -lncurses -o sokoban.o -fpermissive -lstdc++
